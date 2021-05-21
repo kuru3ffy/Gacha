@@ -13,6 +13,7 @@
 		16AF7F842657725B00C426E6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16AF7F822657725B00C426E6 /* Main.storyboard */; };
 		16AF7F862657726200C426E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 16AF7F852657726200C426E6 /* Assets.xcassets */; };
 		16AF7F892657726200C426E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16AF7F872657726200C426E6 /* LaunchScreen.storyboard */; };
+		16AF7F912657768600C426E6 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16AF7F902657768600C426E6 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		16AF7F852657726200C426E6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		16AF7F882657726200C426E6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		16AF7F8A2657726200C426E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		16AF7F902657768600C426E6 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				16AF7F852657726200C426E6 /* Assets.xcassets */,
 				16AF7F872657726200C426E6 /* LaunchScreen.storyboard */,
 				16AF7F8A2657726200C426E6 /* Info.plist */,
+				16AF7F902657768600C426E6 /* ResultViewController.swift */,
 			);
 			path = Gacha;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 				16AF7F812657725B00C426E6 /* ViewController.swift in Sources */,
 				16AF7F7D2657725B00C426E6 /* AppDelegate.swift in Sources */,
 				16AF7F7F2657725B00C426E6 /* SceneDelegate.swift in Sources */,
+				16AF7F912657768600C426E6 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
